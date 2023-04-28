@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    margin: auto;
+    margin-top: 25%;
+    color: goldenrod;
+}
+
+canvas{
+    margin: auto;
+    margin-top: 25px;
+    background-color: darkgray;
+}
+
+table{
+    margin: auto;
+    margin-top: 25px;
+}
+
+.btn{
+    font-family: monospace;
+    font-size: 14px;
+    height: 40px;
+}
+
+#image_input{
+    margin: auto;
+    margin-top: 25px;
+    background-color: darkgray;
+    color: black;
+}
+
+#reset{
+    background-color: orange;
+    border: 2px solid orange;
+}
+
+#output{
+    height: 40px;
+}
+
+#home_cell{
+    padding-left: 20px;
+}
+
+#home{
+    background-color: navajowhite;
+    border: 2px solid navajowhite;
+    color: black;
+}
