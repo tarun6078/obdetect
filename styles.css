@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    margin: auto;
+    margin-top: 50px;
+    color: goldenrod;
+}
+
+canvas{
+    margin: auto;
+    margin-top: 25px;
+    background-color: darkgray;
+}
+
+table{
+    margin: auto;
+    margin-top: 25px;
+}
+
+td{
+    padding: 15px;
+}
+
+.btn{
+    font-family: monospace;
+    font-size: 14px;
+    height: 40px;
+    width: 100%;
+}
+
+#index_form{
+    margin: auto;
+    margin-top: 50px;
+}
